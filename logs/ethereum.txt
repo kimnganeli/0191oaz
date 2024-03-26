@@ -156,3 +156,4 @@
 {"error":"{\"Error_GUID\":\"2218379979563431025\",\"Error\":\"Failed all retries {GUID:2218379979563431025,error:No pairings available.,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x5f4652427"}
 {"jsonrpc":"2.0","id":1,"result":"0x519827e55"}
+{"jsonrpc":"2.0","id":1,"result":"0x954bcd839"}
